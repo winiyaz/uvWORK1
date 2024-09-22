@@ -1,0 +1,2 @@
+# uvWORK1
+UVAPythonPKGManagementStudy
