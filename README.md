@@ -10,6 +10,7 @@
 
 1. [uvWORK1](#uvwork1)
 2. [Main Vi](#main-vi)
+3. [UV Ruff Vscode Extension](#uv-ruff-vscode-extension)
 
 
 ---
@@ -24,4 +25,9 @@
 https://www.youtube.com/live/oj8yk0Y-Ky0?feature=shared 
 - Pythonm talk about using this too.l, 
 
+# UV Ruff Vscode Extension 
+
+https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff 
+- This one works OOB with vscode extension 
+- And you can set it as a default linter 
 
