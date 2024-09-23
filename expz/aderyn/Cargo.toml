@@ -1,0 +1,21 @@
+[workspace]
+members = [
+    "aderyn",
+    "aderyn_core",
+    "aderyn_driver",
+    "aderyn_py",
+]
+
+resolver="1"
+
+exclude = [
+    "bot_ci_cd",
+    "foundry",
+]
+
+[profile.release]
+codegen-units = 1
+lto = true
+
+[profile.dev.package."*"]
+opt-level = 3
