@@ -24,6 +24,8 @@
 
 https://www.youtube.com/live/oj8yk0Y-Ky0?feature=shared 
 - Pythonm talk about using this too.l, 
+- This is a just a stupid talk and not a tutorial 
+- Will look for good tuts on this and dump here for the study 
 
 # UV Ruff Vscode Extension 
 
